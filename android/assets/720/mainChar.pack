@@ -1,0 +1,173 @@
+
+mainChar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blow
+  rotate: false
+  xy: 1, 407
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+die1
+  rotate: false
+  xy: 1, 309
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+die2
+  rotate: false
+  xy: 99, 407
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+die3
+  rotate: false
+  xy: 1, 211
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+die4
+  rotate: false
+  xy: 99, 309
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+die5
+  rotate: false
+  xy: 197, 407
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharDown1
+  rotate: false
+  xy: 1, 113
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharDown2
+  rotate: false
+  xy: 99, 211
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharDown3
+  rotate: false
+  xy: 197, 309
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharDownShoot
+  rotate: false
+  xy: 295, 407
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharLeft1
+  rotate: false
+  xy: 1, 15
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharLeft2
+  rotate: false
+  xy: 99, 113
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharLeft3
+  rotate: false
+  xy: 197, 211
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharLeftShoot
+  rotate: false
+  xy: 295, 309
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharRight1
+  rotate: false
+  xy: 393, 407
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharRight2
+  rotate: false
+  xy: 99, 15
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharRight3
+  rotate: false
+  xy: 197, 113
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharRightShoot
+  rotate: false
+  xy: 295, 211
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharUp1
+  rotate: false
+  xy: 393, 309
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharUp2
+  rotate: false
+  xy: 197, 15
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharUp3
+  rotate: false
+  xy: 295, 113
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mainCharUpShoot
+  rotate: false
+  xy: 393, 211
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+feet
+  rotate: false
+  xy: 1, 1
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+die6
+  rotate: false
+  xy: 491, 502
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

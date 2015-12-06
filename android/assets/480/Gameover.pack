@@ -1,0 +1,19 @@
+
+Gameover.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+yerDead
+  rotate: false
+  xy: 1, 39
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+touchToContinue
+  rotate: false
+  xy: 1, 1
+  size: 256, 36
+  orig: 256, 36
+  offset: 0, 0
+  index: -1

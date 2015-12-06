@@ -1,0 +1,173 @@
+
+mainChar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blow
+  rotate: false
+  xy: 1, 803
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+die1
+  rotate: false
+  xy: 1, 609
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+die2
+  rotate: false
+  xy: 195, 803
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+die3
+  rotate: false
+  xy: 1, 415
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+die4
+  rotate: false
+  xy: 195, 609
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+die5
+  rotate: false
+  xy: 389, 803
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharDown1
+  rotate: false
+  xy: 1, 221
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharDown2
+  rotate: false
+  xy: 195, 415
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharDown3
+  rotate: false
+  xy: 389, 609
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharDownShoot
+  rotate: false
+  xy: 583, 803
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharLeft1
+  rotate: false
+  xy: 1, 27
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharLeft2
+  rotate: false
+  xy: 195, 221
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharLeft3
+  rotate: false
+  xy: 389, 415
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharLeftShoot
+  rotate: false
+  xy: 583, 609
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharRight1
+  rotate: false
+  xy: 777, 803
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharRight2
+  rotate: false
+  xy: 195, 27
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharRight3
+  rotate: false
+  xy: 389, 221
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharRightShoot
+  rotate: false
+  xy: 583, 415
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharUp1
+  rotate: false
+  xy: 777, 609
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharUp2
+  rotate: false
+  xy: 389, 27
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharUp3
+  rotate: false
+  xy: 583, 221
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+mainCharUpShoot
+  rotate: false
+  xy: 777, 415
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+feet
+  rotate: false
+  xy: 1, 1
+  size: 88, 24
+  orig: 88, 24
+  offset: 0, 0
+  index: -1
+die6
+  rotate: false
+  xy: 971, 994
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

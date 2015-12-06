@@ -1,0 +1,68 @@
+
+Shark.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+die
+  rotate: false
+  xy: 1, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkDown1
+  rotate: false
+  xy: 1, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkDown2
+  rotate: false
+  xy: 195, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkLeft1
+  rotate: false
+  xy: 195, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkLeft2
+  rotate: false
+  xy: 389, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkRight1
+  rotate: false
+  xy: 389, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkRight2
+  rotate: false
+  xy: 583, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkUp1
+  rotate: false
+  xy: 583, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+sharkUp2
+  rotate: false
+  xy: 777, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1

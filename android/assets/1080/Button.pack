@@ -1,0 +1,33 @@
+
+Button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hint
+  rotate: false
+  xy: 1, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+hintClicked
+  rotate: false
+  xy: 195, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 389, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 583, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1

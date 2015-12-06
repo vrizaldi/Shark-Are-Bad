@@ -1,0 +1,43 @@
+
+Menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+credits
+  rotate: false
+  xy: 1, 86
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+swipeToStart
+  rotate: false
+  xy: 1, 1
+  size: 576, 83
+  orig: 576, 83
+  offset: 0, 0
+  index: -1
+
+Menu2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+howToPlay
+  rotate: false
+  xy: 1, 1
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+
+Menu3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 1, 1
+  size: 1440, 720
+  orig: 1440, 720
+  offset: 0, 0
+  index: -1

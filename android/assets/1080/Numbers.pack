@@ -1,0 +1,89 @@
+
+Numbers.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 661
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 371
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 183, 661
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 81
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 183, 371
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 365, 661
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 183, 81
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 365, 371
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 547, 661
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 365, 81
+  size: 180, 288
+  orig: 180, 288
+  offset: 0, 0
+  index: -1
+highscore
+  rotate: false
+  xy: 1, 1
+  size: 384, 78
+  orig: 384, 78
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 729, 871
+  size: 288, 78
+  orig: 288, 78
+  offset: 0, 0
+  index: -1

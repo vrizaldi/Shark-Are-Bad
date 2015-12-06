@@ -1,0 +1,71 @@
+
+Blocks.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blockObs
+  rotate: false
+  xy: 1, 387
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+blockObs2
+  rotate: false
+  xy: 387, 387
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+blockPath1
+  rotate: false
+  xy: 1, 1
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+blockPath2
+  rotate: false
+  xy: 387, 1
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+
+Blocks2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blockPath12
+  rotate: false
+  xy: 1, 1
+  size: 683, 683
+  orig: 683, 683
+  offset: 0, 0
+  index: -1
+
+Blocks3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blockPath22
+  rotate: false
+  xy: 1, 387
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+blockPath3
+  rotate: false
+  xy: 1, 1
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+blockPath32
+  rotate: false
+  xy: 387, 387
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1

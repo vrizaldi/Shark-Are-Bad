@@ -1,0 +1,61 @@
+
+Blocks.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blockObs
+  rotate: false
+  xy: 1, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockObs2
+  rotate: false
+  xy: 1, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockPath1
+  rotate: false
+  xy: 195, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockPath12
+  rotate: false
+  xy: 195, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockPath2
+  rotate: false
+  xy: 389, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockPath22
+  rotate: false
+  xy: 389, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockPath3
+  rotate: false
+  xy: 583, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blockPath32
+  rotate: false
+  xy: 583, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
